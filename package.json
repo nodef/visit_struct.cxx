@@ -1,0 +1,15 @@
+{
+  "name": "visit_struct.cxx",
+  "version": "1.2.0",
+  "description": "A miniature library for struct-field reflection in C++; Chris Beck (2016).",
+  "keywords": ["c", "library", "reflection", "struct", "visit"],
+  "license": "BSL-1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/visit_struct.cxx.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nodef/visit_struct.cxx/issues"
+  },
+  "homepage": "https://github.com/nodef/visit_struct.cxx#readme"
+}

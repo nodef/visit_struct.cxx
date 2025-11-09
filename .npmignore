@@ -1,0 +1,15 @@
+.github/
+.gitignore
+.npmignore
+.travis.yml
+appveyor.yml
+generate_pp_map.py
+IMPLEMENTATION_NOTES.md
+Jamroot.jam
+run_tests.sh
+test.sh
+test_fully_visitable.cpp
+test_visit_struct.cpp
+test_visit_struct_boost_fusion.cpp
+test_visit_struct_boost_hana.cpp
+test_visit_struct_intrusive.cpp

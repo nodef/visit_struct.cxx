@@ -4,7 +4,19 @@
 
 [![Boost licensed](https://img.shields.io/badge/license-Boost-blue.svg)](./LICENSE)
 
-A header-only library providing **structure visitors** for C++11 and C++14.
+A header-only library providing **structure visitors** for C++11 and C++14, by [Chris Beck](https://github.com/cbeck88).
+
+## Installation
+
+Run:
+```bash
+$ npm i visit_struct.cxx
+```
+
+And then include `visit_struct.hpp` as follows:
+```cxx
+#include "node_modules/visit_struct.cxx/include/visit_struct/visit_struct.hpp"
+```
 
 ## Motivation
 
@@ -654,3 +666,10 @@ On MSVC currently the settings are:
 * [boost-hana](http://www.boost.org/doc/libs/1_61_0/libs/hana/doc/html/index.html) from ldionne
 * [pod flat reflection](https://github.com/apolukhin/magic_get) from apolukhin
 * [self-aware structs](http://duriansoftware.com/joe/Self-aware-struct-like-types-in-C++11.html) from jckarter
+
+<br>
+<br>
+
+
+[![ORG](https://img.shields.io/badge/org-nodef-green?logo=Org)](https://nodef.github.io)
+![](https://ga-beacon.deno.dev/G-RC63DPBH3P:SH3Eq-NoQ9mwgYeHWxu7cw/github.com/nodef/visit_struct.cxx)
